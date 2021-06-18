@@ -23,14 +23,13 @@ Predict Co2 emission per capita considering different reasons like deforestation
 
 ![Video transcription/translation app](https://github.com/netali514/Prana-Life-Force/blob/main/Architecture.PNG)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the UI to check CO2 levels.
+2. Watson Studio runs the backened code to forecast CO2 per capita level for input provided.
+3. Real time data is fetched using cloud database storage.
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+[More detail is available here](./Description.md)
 
 ## Project roadmap
 
