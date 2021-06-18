@@ -52,3 +52,9 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 - IBM Watson Studio - The cloud platform for coding
 - Power BI - Frontend UI
 
+## Getting started
+
+1. Install Latest version of Power BI Desktop Application 
+2. After installation, Go to File -> Open Report -> Choose the file
+3. After the file is opened, User can view different comparisons made and Forecast on CO2 levels
+
