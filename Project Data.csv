@@ -1,0 +1,24 @@
+Column Name,Description
+year,Calendar year
+co2,Total Co2 emitted
+co2_per_capita,Co2 emitted per capita
+consumption_co2_per_capita,"Co2 consumption per capita, this is from imported goods. This tells lifestyle of people"
+share_global_co2,Share in global Co2 emmision
+co2_per_unit_energy,Co2 being generated from fossil fuels to generate energy
+cement_co2_per_capita,Co2 emitted per capita from cement production
+coal_co2_per_capita,Co2 emitted from coal being burnt
+gas_co2_per_capita,Co2 emitted from gas product
+oil_co2_per_capita,Co2 emiited from oil
+ghg_per_capita,Greehouse gas emission
+methane_per_capita,Methane gas emission from ghg
+nitrous_oxide_per_capita,Nitrous oxide emission from ghg
+energy_per_capita,Energy produced per capita
+population,Total population each year
+forest_area_sq_km,Forest area coverage
+electric_power_consumption_kWh_per_capita,Electric power consumed per capita
+vehicle_sales,Vehicle sales each year
+commodity_driven_deforestation,Co2 emission due to commodity driven deforestration
+forestry,Co2 emission due to forestry
+shifting_agriculture,Co2 emission due to agriculture shifting
+urbanization,Co2 emission due to urbanisation
+wildfire,Co2 emission due to wildfire
