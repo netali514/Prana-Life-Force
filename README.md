@@ -1,47 +1,16 @@
 # Prana-Life-Force
 Call for code Global Challenge 2021 - Team Data Warrirors
-  
-<p align="center">
-  <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
-</p>
-
-Thanks for showing interest in taking part in our Co-learning activity. We assure you the journey full of learning by solving some problems. To get into the Data Science field, the first and the last thing you need is the portfolio where you have solved a problem using data science. Ask any good Data Scientist and they will tell you the same.
-
-#### <div align="center">“Let’s put theory into practice”</div>
-  
-
-In this activity, we will solve old Kaggle problems to enable you to participate in ongoing Kaggle competitions.
-
-#### **Why Old Kaggle problems?**
-Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
-
-# <div align="center"> Testimonial (Click to Watch Video)</div>
-
-<p align="center">
- <img>
-  <a href="http://www.youtube.com/watch?v=6o_htflJWtc"> <img src="http://img.youtube.com/vi/6o_htflJWtc/0.jpg" /></a>
-  </img>
-</p>
 
 
-# <div align="center">Course Outline</div>
 
-## <div align="center"><ins>Python brush up with ML concepts and libraries [3 hours - optional]</ins></div>
+# <div align="center">Short Description</div>
+
+## <div align="center"><ins>What's the problem?</ins></div>
 
 *A brief summary on basic concepts of python syntax, data types and in built data structures such as 
 loops, lists, tuples, dictionary, functions.*
 
-<U> Understanding basic Machine Learning concepts : </U>
-
-1. What is machine learning?
-2. Supervised and Unsupervised machine learning concept.
-3. Bias - Variance trade-off.
-4. Overfitting and Underfitting in machine learning.
-5. Understanding classification and regression.
-6. Brief summary of ‘Scikit learn’.
-7. Understanding the problem statement for Kaggle problems.
-
-## <div align="center"><ins>Batch Categories</ins></div>
+## <div align="center"><ins>How can technology help?</ins></div>
 
 *For enrollment into any batch a one on one discussion session would be scheduled with our team where our team will understand your aspiration for joining this course and your
 understanding about field of Data Science and Kaggle.Based on batch category problems have been categorised accordingly.*
