@@ -1,7 +1,7 @@
 # Problem Statement -
 
 Covid-19 has reminded us of importance of Oxygen in the air we breathe. Factors such as industrialization, population explosion, vehicle emissions, deforestation, constructions adversely impact all the ecosystems. 
-If these factors are not controlled soon, we will have to face severe health issues and deterioration of the quality of life. Taking no action will end up costing us a lot more than if we act now. Co2 is an important contributor for air pollution and changing climatic condition. Our solution, Prana, gives data driven prediction of Co2 level for a selected geographical area and percentage significance of each contributing factor. Armed with this information, we can then funnel our focus on controlling those significant factors to achieve better air quality by controlling Co2 levels for short term and consider other factors to achieve sustainable environment in the long run.
+If these factors are not controlled soon, we will have to face severe health issues and deterioration of the quality of life. Taking no action will end up costing us a lot more than if we act now. CO2 is an important contributor for air pollution and changing climatic condition. Our solution, Prana, gives data driven prediction of CO2 level for a selected geographical area and percentage significance of each contributing factor. Armed with this information, we can then funnel our focus on controlling those significant factors to achieve better air quality by controlling CO2 levels for short term and consider other factors to achieve sustainable environment in the long run.
 
 ## Data Duration – 
 
@@ -11,7 +11,7 @@ If these factors are not controlled soon, we will have to face severe health iss
 
 India
 
-## Is Co2 that very harmful?
+## Is CO2 that very harmful?
 
 The problem isn’t carbon dioxide itself, it’s the sheer levels of CO2 that we produce in today’s world. Ever since the Industrial Revolution, CO2 levels in the atmosphere have been increasing drastically. Deforestation and the burning of fossil fuel have contributed to extraordinarily high levels of CO2 emissions.
 
