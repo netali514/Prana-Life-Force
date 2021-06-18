@@ -44,7 +44,7 @@ The project currently does the following things.
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./roadmap.png)
+![Roadmap](./Roadmap.PNG)
 
 
 ## Built with
