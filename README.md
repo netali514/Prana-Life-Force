@@ -17,7 +17,7 @@ Predict CO2 emission per capita considering different reasons like deforestation
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/netali514/Prana-Life-Force/blob/main/Prana%20-%20PBI.PNG)](https://youtu.be/wiyIl8Dt7A4)
 
 ## The architecture
 
