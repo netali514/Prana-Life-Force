@@ -35,15 +35,16 @@ Predict Co2 emission per capita considering different reasons like deforestation
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Reads data
+- Structures the data
+- Creates machine learning model
+- Forecasts value
+- Publishes result on Power BI
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](./roadmap.png)
 
 
 ## Built with
