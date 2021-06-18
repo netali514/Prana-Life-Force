@@ -1,5 +1,5 @@
 # Prana-Life-Force
-Call for code Global Challenge 2021 - Team Data Warrirors
+Call for code Global Challenge 2021 
 
 ## Short description
 
@@ -13,7 +13,7 @@ NGOs and Government can use this predictive tool to check levels of CO2 per capi
 
 ### The idea
 
-Predict Co2 emission per capita considering different reasons like deforestation, co2 emission from different sources, etc. Propose a solution as which factor should be reduced and measures to be taken to control Co2 levels.
+Predict CO2 emission per capita considering different reasons like deforestation, CO2 emission from different sources, etc. Propose a solution as which factor should be reduced and measures to be taken to control CO2 levels.
 
 ## Demo video
 
